@@ -30,7 +30,7 @@
         <img src="https://skillicons.dev/icons?i=instagram" />
     </a>
     <a href="https://www.linkedin.com/in/kripash-shrestha" target="_blank">
-        <img src="https://skillicons.dev/icons?i=instagram, linkedin" />
+        <img src="https://skillicons.dev/icons?i=linkedin" />
     </a>
 </div>
     
