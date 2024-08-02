@@ -8,21 +8,25 @@
 <div align="left">
     <img src="https://skillicons.dev/icons?i=javascript,c,java,python,php,html,css"/>
 </div>
+
 <h2 align="left">Frameworks</h2>
 <br/>   
 <div align="left">
     <img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
 </div>
+
 <h2 align="left">Databases</h2>
 <br/>    
 <div align="left">
      <img src="https://skillicons.dev/icons?i=firebase,mongodb" /><br>
 </div>
+
 <h2 align="left">Tools</h2>
 <br/>   
 <div align="left">
     <img src="https://skillicons.dev/icons?i=vscode,postman,git,github,figma,azure,aws" />
 </div>
+
 <h2 align="left">Socials</h2>
 <br/>  
 <div align="left">
