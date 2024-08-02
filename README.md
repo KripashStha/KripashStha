@@ -29,7 +29,7 @@
     <a href="https://www.instagram.com/kripash_shrestha/">
         <img src="https://skillicons.dev/icons?i=instagram" />
     </a>
-    <a href="https://www.linkedin.com/in/kripash-shrestha" target="_blank">
+    <a href="https://www.linkedin.com/in/kripash-shrestha-50525126b/" target="_blank">
         <img src="https://skillicons.dev/icons?i=linkedin" />
     </a>
 </div>
